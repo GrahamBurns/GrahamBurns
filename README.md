@@ -28,10 +28,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<title>Anime</title>
-</head>
-  
 <body background="thumbnail.png">
 </body>
 </html>
