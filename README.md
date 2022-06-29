@@ -3,8 +3,7 @@
 
   
 
-- 🔭 I’m currently working on
-  - I’m currently working on my game named ["AutoWrld"](https://github.com/GrahamBurns/AutoWrld)
+- 🔭 I’m currently working on my game named ["AutoWrld"](https://github.com/GrahamBurns/AutoWrld)
 
 - 🌱 I’m currently learning
   - Perlin Noise and Diamond Square to help me create procedurally generated worlds and Decision Tree, which is helping implement Ai learning to the game.
@@ -15,7 +14,7 @@
 
 - ⚡ Fun facts:
   - While I do make pixel art, I do struggle with seeing certain colors. 
-  - When I was younger, I hated the idea of silent letters then I realize my name has two of them pronounced "gram" spelled "Graham".
+  - When I was younger, I hated the idea of silent letters then I realized my name has two of them pronounced "gram" spelled "Graham."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
