@@ -27,4 +27,4 @@
  </a> </p>
 
 
-<img src="thumbnail.jpg" alt="cplusplus" width="1000" height="1000"/>
+<img src="" alt="cplusplus" width="100" height="100"/>
