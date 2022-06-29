@@ -29,8 +29,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> anime </title>
-  </head>
+  <title>anime</title>
+</head>
   
   <body background="thumbnail.png">
     </body>
