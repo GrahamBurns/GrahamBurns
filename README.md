@@ -27,4 +27,25 @@
  </a> </p>
 
 
-<img src="" alt="cplusplus" width="100" height="100"/>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anime</title>
+
+  <style>
+    body{
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+
+    }
+  </style>
+
+  </head>
+
+  <body background="thumbnail.jpg">
+  <>
+
+</body>
+</html>
+
