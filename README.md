@@ -29,7 +29,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Anime</title>
+<title>Anime</title>
 </head>
   
 <body background="thumbnail.png">
