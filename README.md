@@ -29,10 +29,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>anime</title>
+  <title>Anime</title>
 </head>
   
-  <body background="thumbnail.png">
-    </body>
-  </html>
+<body background="thumbnail.png">
+</body>
+</html>
   
