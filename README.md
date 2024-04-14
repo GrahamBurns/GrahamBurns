@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on my game named ["AutoWrld"](https://github.com/GrahamBurns/AutoWrld)
 
 - 🌱 I’m currently learning
-  - Perlin Noise and Diamond Square to help me create procedurally generated worlds and Decision Tree, which is helping implement Ai learning to the game.
   - Methods on path finding
 
 - 📫 How to reach me:
