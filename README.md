@@ -3,17 +3,14 @@
 
   
 
-- 🔭 I’m currently working on my game named ["AutoWrld"](https://github.com/GrahamBurns/AutoWrld)
+- 🔭 I’m currently working on my game engine named ["AutoWorld"](https://github.com/GrahamBurns/AutoWorldEngine)
 
 - 🌱 I’m currently learning
-  - Methods on path finding
+  - Animations
 
 - 📫 How to reach me:
   - grahamburns730@gmail.com
 
-- ⚡ Fun facts:
-  - While I do make pixel art, I do struggle with seeing certain colors. 
-  - When I was younger, I disliked the idea of silent letters then I realized my name has two of them pronounced "gram" spelled "Graham."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
